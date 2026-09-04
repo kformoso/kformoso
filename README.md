@@ -1,16 +1,32 @@
-##CONICET researcher | Molecular & cellular biology | Cancer, immunological aging & Down syndrome | ML for biomedicine | R/Python
+# Karina Formoso, PhD
 
-<!--
-**kformoso/kformoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical researcher at CONICET, Argentina, working at the interface of
+experimental biomedicine and data science.
 
-Here are some ideas to get you started:
+## Research interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lung cancer: histaminergic signaling, drug response and digital-twin modeling
+- Immunological aging: high-dimensional immune phenotyping
+- Down syndrome: HTP-LAN, clinical and multi-omic integration, cross-country clustering
+
+## Machine learning & computational work
+
+I am currently expanding my research toward machine learning using R and Python,
+with hands-on work in supervised and unsupervised learning, clustering,
+LightGBM, CNN-based feature extraction, dimensionality reduction and
+hyperparameter optimization.
+
+## Teaching & community
+
+- Instructor in a Big Data and Artificial Intelligence diploma program
+- Graduate fellow supervision in computational biomedical projects
+- MetaDocencia collaborator
+- Open science and reproducible research advocate
+
+## Current computational projects
+
+🫁 Lung cancer digital twin  
+🧬 Down syndrome clinical and multi-omic ML  
+🧫 ML for immunological aging
+
+[LinkedIn] | [CONICET] | [MetaDocencia]
