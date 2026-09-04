@@ -1,4 +1,4 @@
-## Hi there 👋
+##CONICET researcher | Molecular & cellular biology | Cancer, immunological aging & Down syndrome | ML for biomedicine | R/Python
 
 <!--
 **kformoso/kformoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
